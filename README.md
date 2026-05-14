@@ -59,7 +59,11 @@ DevOps engineer passionate about automation, infrastructure as code, and buildin
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdalrahmanx9/abdalrahmanx9/main/output/github-contribution-grid-snake-dark.svg?cb=2" width="90%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdalrahmanx9/abdalrahmanx9/main/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdalrahmanx9/abdalrahmanx9/main/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdalrahmanx9/abdalrahmanx9/main/output/github-contribution-grid-snake.gif" width="90%" />
+  </picture>
 </p>
 
 ---
