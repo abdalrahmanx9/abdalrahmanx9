@@ -39,16 +39,16 @@ DevOps engineer passionate about automation, infrastructure as code, and buildin
 
 ## GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalrahmanx9&theme=dark&hide_border=true" />
+</p>
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats-two-delta-88.vercel.app/api?username=abdalrahmanx9&show_icons=true&theme=dark&hide_border=true&count_private=true&cb=1" /></td>
     <td><img src="https://github-readme-stats-two-delta-88.vercel.app/api/top-langs/?username=abdalrahmanx9&layout=compact&theme=dark&hide_border=true&count_private=true&cb=1" /></td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalrahmanx9&theme=dark&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdalrahmanx9&theme=darkhub&no-frame=true&margin-w=15&column=7" />
