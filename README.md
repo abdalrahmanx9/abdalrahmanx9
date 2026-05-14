@@ -45,8 +45,8 @@ DevOps engineer passionate about automation, infrastructure as code, and buildin
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-two-delta-88.vercel.app/api?username=abdalrahmanx9&show_icons=true&theme=dark&hide_border=true&count_private=true&cb=1" /></td>
-    <td><img src="https://github-readme-stats-two-delta-88.vercel.app/api/top-langs/?username=abdalrahmanx9&layout=compact&theme=dark&hide_border=true&count_private=true&cb=1" /></td>
+    <td><img src="https://github-readme-stats-two-delta-88.vercel.app/api?username=abdalrahmanx9&show_icons=true&theme=dark&hide_border=true&count_private=true&cb=2026" /></td>
+    <td><img src="https://github-readme-stats-two-delta-88.vercel.app/api/top-langs/?username=abdalrahmanx9&layout=compact&theme=dark&hide_border=true&count_private=true&cb=2026" /></td>
   </tr>
 </table>
 
