@@ -50,6 +50,10 @@ DevOps engineer passionate about automation, infrastructure as code, and buildin
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=abdalrahmanx9&theme=darkhub&no-frame=true&margin-w=15&column=7" />
+</p>
+
 ---
 
 <p align="center">
