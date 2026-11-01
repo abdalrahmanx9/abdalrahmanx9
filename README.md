@@ -56,6 +56,14 @@ DevOps engineer passionate about automation, infrastructure as code, and buildin
 
 ---
 
+## Activity Koi
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="Activity Koi" />
+</p>
+
+---
+
 ## Contribution Snake
 
 <p align="center">
