@@ -58,8 +58,6 @@ DevOps engineer passionate about automation, infrastructure as code, and buildin
 
 ---
 
-## Contribution Snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdalrahmanx9/abdalrahmanx9/main/output/github-contribution-grid-snake-dark.svg" />
